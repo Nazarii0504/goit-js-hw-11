@@ -38,7 +38,7 @@ input {
   padding: 8px;
   max-width: 320px;
   border: none;
-  border-radius: 5px;
+  border-radius: 1px;
   outline: none;
 }
 
@@ -47,7 +47,7 @@ button {
   margin-left: 10px;
   cursor: pointer;
   border: none;
-  border-radius: 5px;
+  border-radius: 1px;
 }
 
 .load-more {
